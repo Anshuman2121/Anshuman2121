@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on 💻 I’m a DevOps enthusiast
+- 💻 I’m a DevOps enthusiast
 - 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
 - 🐱 Sharing acquired expertise as blogs over Dev.to whenever I can
 - ✋ Ask me about anything, I'm happy to help!
