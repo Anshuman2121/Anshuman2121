@@ -18,7 +18,7 @@
 
 - 💻 I’m a DevOps enthusiast
 - 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
-- 🐱 Sharing acquired expertise as blogs over Dev.to whenever I can
+- 🐱 Sharing acquired expertise as blogs over https://dev.to/_anshumanabhi whenever I can
 - ✋ Ask me about anything, I'm happy to help!
 - 📥 How to reach me: anshuman2121@gmail.com
 
@@ -38,10 +38,10 @@
 </p>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/anshumanabhishek1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/_anshumanabhi'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/Anshuman2121'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2> Connect with me <img src='https://media.giphy.com/media/UnyKXModRZbJZiJhSW/giphy.gif?cid=ecf05e47op58k874i9g3yungla1kpc91r3ia5jqho8x3k5iw&rid=giphy.gif&ct=s' width="50px"> </h2>
+<a href = 'https://www.linkedin.com/in/anshumanabhishek1'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/></a> 
+<a href = 'https://www.twitter.com/_anshumanabhi'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"/></a> 
+<a href = 'https://dev.to/_anshumanabhi'> <img width = '32px' align= 'center' src="https://cdn.worldvectorlogo.com/logos/devto.svg"/></a> 
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
