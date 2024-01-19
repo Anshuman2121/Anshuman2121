@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://github.com/Anshuman2121/Anshuman2121/blob/main/cover.jpg" alt="cover" />
+ <img alt="Free Azure Devops Logo Icon" width="256" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp&amp;w=256" srcset="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp&amp;w=256 1x, https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp&amp;w=512 2x">
 </div>
 
 <h1> Hello Fellow <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
